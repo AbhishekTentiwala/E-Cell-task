@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../../.flowbite-react/class-list.json";
+:root{
+    --pr: #fef3c6;
+    --sc: white;
+    --txt1: rgb(0, 0, 0);
+    --txt2: rgb(177, 0, 136);
+}
